@@ -45,3 +45,107 @@
 @media(max-width:680px){.black-hole-system{left:76%;top:20%;width:370px;max-width:none}.hole-one{transform:translate(-50%,-50%) translateX(-54px)}.hole-two{transform:translate(-50%,-50%) translateX(54px)}.product-foundations{grid-template-columns:1fr 1fr;gap:17px 12px;padding:20px 0}.product-foundations-intro>p{max-width:250px}.product-track p{font-size:9px}}
 @media(max-width:380px){.black-hole-system{width:330px}.hole-one{transform:translate(-50%,-50%) translateX(-47px)}.hole-two{transform:translate(-50%,-50%) translateX(47px)}}
 @media(prefers-reduced-motion:reduce){.binary-pair,.space-ripple,.black-hole::before,.collision-flare,.merger-remnant{animation:none!important}.binary-pair{transform:scale(.72)}.hole-one{transform:translate(-50%,-50%) translateX(-65px)}.hole-two{transform:translate(-50%,-50%) translateX(65px)}.collision-flare,.merger-remnant{display:none}}
+
+/* Readability pass */
+.eyebrow{font-size:10px}
+.topbar nav a{font-size:13px}
+.nav-resume{font-size:12px}
+.hero-intro{font-size:15px}
+.button-primary,.text-link{font-size:12px}
+.metric>span{font-size:9px}
+.metric-note{font-size:10px}
+.section-intro>p,.expertise-heading>p{font-size:13px}
+.role-meta{font-size:9px}
+.role-heading h3{font-size:25px}
+.role-heading p{font-size:13px}
+.role-summary{font-size:13px}
+.role ul{font-size:12px}
+.role-tags span,.capability-skills span{font-size:9px}
+.capability h3{font-size:19px}
+.capability>p{font-size:12px}
+.toolchain{font-size:10px}
+.product-foundations-intro>span,.product-track>span{font-size:9px}
+.product-foundations-intro>p{font-size:11px}
+.product-track p{font-size:12px}
+.visual-caption,.music-note span{font-size:8px}
+.about-copy>p{font-size:13px}
+.about-interests span{font-size:9px}
+.education-entry h3{font-size:15px}
+.education-entry p{font-size:12px}
+.education-entry div>span,.certification>span,.certifications>.eyebrow,.languages>span{font-size:9px}
+.certification strong{font-size:12px}
+.certification small{font-size:11px}
+.languages p{font-size:12px}
+.contact-content>p{font-size:13px}
+.footer-bottom{font-size:8px}
+@media(max-width:680px){
+  .eyebrow{font-size:9px}
+  .topbar nav a{font-size:11px}
+  .hero-intro{font-size:13px}
+  .button-primary,.text-link{font-size:11px}
+  .metric>span{font-size:8px}
+  .metric-note{font-size:9px}
+  .role-meta{font-size:8px}
+  .role-heading h3{font-size:21px}
+  .role-heading p,.role-summary{font-size:12px}
+  .role ul{font-size:11px}
+  .role-tags span,.capability-skills span{font-size:8px}
+  .capability h3{font-size:16px}
+  .capability>p,.about-copy>p{font-size:11px}
+  .product-foundations-intro>p{font-size:10px}
+  .product-track p{font-size:10px}
+  .about-interests span{font-size:8px}
+  .education-entry h3{font-size:14px}
+  .education-entry p,.certification strong,.languages p{font-size:11px}
+  .certification small{font-size:10px}
+  .contact-content>p{font-size:12px}
+}
+
+/* Slightly larger type scale */
+.eyebrow{font-size:11px}
+.topbar nav a{font-size:14px}
+.hero-intro{font-size:16px}
+.button-primary,.text-link{font-size:13px}
+.metric>span{font-size:10px}
+.metric-note{font-size:11px}
+.section-intro>p,.expertise-heading>p{font-size:14px}
+.role-meta{font-size:10px}
+.role-heading h3{font-size:26px}
+.role-heading p,.role-summary{font-size:14px}
+.role ul{font-size:13px}
+.role-tags span,.capability-skills span{font-size:10px}
+.capability h3{font-size:20px}
+.capability>p{font-size:13px}
+.toolchain{font-size:11px}
+.product-foundations-intro>span,.product-track>span{font-size:10px}
+.product-foundations-intro>p{font-size:12px}
+.product-track p{font-size:13px}
+.about-copy>p{font-size:14px}
+.about-interests span{font-size:10px}
+.education-entry h3{font-size:16px}
+.education-entry p{font-size:13px}
+.education-entry div>span,.certification>span,.certifications>.eyebrow,.languages>span{font-size:10px}
+.certification strong{font-size:13px}
+.certification small{font-size:12px}
+.languages p,.contact-content>p{font-size:13px}
+.footer-bottom{font-size:9px}
+@media(max-width:680px){
+  .eyebrow{font-size:10px}
+  .hero-intro{font-size:14px}
+  .metric>span{font-size:9px}
+  .role-meta{font-size:9px}
+  .role-heading h3{font-size:22px}
+  .role-heading p,.role-summary{font-size:13px}
+  .role ul{font-size:12px}
+  .role-tags span,.capability-skills span{font-size:9px}
+  .capability h3{font-size:17px}
+  .capability>p,.about-copy>p{font-size:12px}
+  .product-foundations-intro>span,.product-track>span{font-size:9px}
+  .product-foundations-intro>p{font-size:11px}
+  .product-track p{font-size:11px}
+  .about-interests span{font-size:9px}
+  .education-entry h3{font-size:15px}
+  .education-entry p,.certification strong,.languages p{font-size:12px}
+  .certification small{font-size:11px}
+  .contact-content>p{font-size:13px}
+}
